@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "reactamplifiedjoreye",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
